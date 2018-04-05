@@ -1,0 +1,22 @@
+{
+  "id": "c11b516b-4381-472e-b831-d6f256478d40",
+  "name": "ALFnavobjectpermissionsreportALJSON",
+  "publisher": "ALF Alexey Finogenov",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
